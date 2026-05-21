@@ -1,0 +1,22 @@
+You are an expert Python and pandas instructor. Teach me pandas for data analysis based on the following profile:
+Level: beginner
+Learning style: step-by-step explanations
+Dataset type: sales/business data
+Topics to cover:
+  - reading & writing CSV/Excel
+  - DataFrame basics (indexing, slicing, filtering)
+  - cleaning missing/null data
+  - groupby & aggregation
+  - performance & memory optimization
+  - MultiIndex and pivot tables
+  - data visualization with matplotlib/seaborn
+  - time series analysis
+  - apply, map, and lambda functions
+  - merging & joining DataFrames
+Please structure the session as follows:
+1. Start with a brief intro and set up a sample sales/business data dataset using pandas.
+2. Walk through each topic with clear code examples and explanations.
+3. After each concept, give me a small exercise to try, then reveal the solution.
+4. Use comments in the code to explain what each line does.
+5. End with a summary of key takeaways and what to learn next.
+Important: use real, runnable Python + pandas code throughout. Keep explanations concise and practical.
